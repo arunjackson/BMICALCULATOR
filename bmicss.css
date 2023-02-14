@@ -1,12 +1,7 @@
 body
 {
-    background-image: linear-gradient(rgb(219, 60, 219),rgb(227, 217, 229));
-    /* Created with https://www.css-gradient.com */
-background: #5201FC;
-background: -webkit-linear-gradient(top left, #5201FC, #FB7D01);
-background: -moz-linear-gradient(top left, #5201FC, #FB7D01);
-background: linear-gradient(to bottom right, #5201FC, #FB7D01);
-background-image: url("https://img.freepik.com/free-photo/portrait-young-sportive-girl-training-with-dumbbells-isolated-blue-background-neon_155003-45614.jpg?w=2000&t=st=1676345995~exp=1676346595~hmac=b7bddb800b87810df21060124f6bb8e55c1839293b5d7dd352978945ac2deeb4");
+   
+background-image: url("https://img.freepik.com/free-photo/unfocused-view-gym-with-machines_1203-1086.jpg?w=1800&t=st=1676347042~exp=1676347642~hmac=b76ff79b411dbe1eb3f23d578bc3ef7387149ea8c8d7e3e641dfd3710c9f61b3");
 background-repeat:no-repeat;
 background-size: cover;
 }
@@ -17,6 +12,7 @@ table
     padding-top: 2%;
     padding-bottom: 5%;
     
+    
 }
 .answe{
     
@@ -25,13 +21,16 @@ table
     width: 300px;
     height: auto;
     padding-top: 1%;
+    box-shadow: 2px 3px 32px;
     
 }
 .fs
 {
     
+
     padding-top: 2%;
     padding-bottom: 1%;
+   
     
 }
 .imgg
@@ -44,13 +43,17 @@ table
     padding-bottom: 2%;*/
     margin-left: 900px;
     margin-top: -150px;
+    border-radius: px;
 
     
 }
 input
 {
+    height: 40px;
     border-radius: ;
     background-color: rgb(255, 255, 255);
+    border-style:dashed;
+    box-shadow: 1px 16px 19px;
 }
 h4,h2{
     font-family:'Times New Roman', Times, serif;
@@ -58,8 +61,9 @@ h4,h2{
 h1
 {
     font-family:'Times New Roman', Times, serif;
-    
+    box-shadow: 1px 16px 19px;
 }
+   
 section
 {
     padding-left: 10%;
@@ -67,4 +71,10 @@ section
     padding-top: 2%;
     padding-bottom: 1%;
     
+}
+
+img
+{
+    border-radius: 30px;
+    box-shadow: 2px 40px 32px;
 }
