@@ -1,6 +1,6 @@
 body
 {
-    background-image: linear-gradient(violet,white);
+    background-image: linear-gradient(rgb(219, 60, 219),rgb(227, 217, 229));
 }
 table
 {
@@ -21,7 +21,7 @@ table
 }
 .fs
 {
-    padding-left: 10%;
+    padding-left: 0%;
     padding-right: 10%;
     padding-top: 2%;
     padding-bottom: 1%;
@@ -45,7 +45,7 @@ input
     border-radius: ;
     background-color: rgb(255, 255, 255);
 }
-h4{
+h4,h2{
     font-family:'Times New Roman', Times, serif;
 }
 h1
