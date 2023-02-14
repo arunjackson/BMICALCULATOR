@@ -1,0 +1,63 @@
+body
+{
+    background-image: linear-gradient(violet,white);
+}
+table
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    
+}
+.answe{
+    
+    background-color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: auto;
+    padding-top: 1%;
+    
+}
+.fs
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    
+}
+.imgg
+{
+    /* height: 100px; */
+    /* display: inline; 
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 2%;*/
+    margin-left: 900px;
+    margin-top: -150px;
+
+    
+}
+input
+{
+    border-radius: ;
+    background-color: rgb(255, 255, 255);
+}
+h4{
+    font-family:'Times New Roman', Times, serif;
+}
+h1
+{
+    font-family:'Times New Roman', Times, serif;
+    
+}
+section
+{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    
+}
