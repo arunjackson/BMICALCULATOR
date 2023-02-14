@@ -1,6 +1,14 @@
 body
 {
     background-image: linear-gradient(rgb(219, 60, 219),rgb(227, 217, 229));
+    /* Created with https://www.css-gradient.com */
+background: #5201FC;
+background: -webkit-linear-gradient(top left, #5201FC, #FB7D01);
+background: -moz-linear-gradient(top left, #5201FC, #FB7D01);
+background: linear-gradient(to bottom right, #5201FC, #FB7D01);
+background-image: url("https://img.freepik.com/free-photo/portrait-young-sportive-girl-training-with-dumbbells-isolated-blue-background-neon_155003-45614.jpg?w=2000&t=st=1676345995~exp=1676346595~hmac=b7bddb800b87810df21060124f6bb8e55c1839293b5d7dd352978945ac2deeb4");
+background-repeat:no-repeat;
+background-size: cover;
 }
 table
 {
@@ -21,8 +29,7 @@ table
 }
 .fs
 {
-    padding-left: 0%;
-    padding-right: 10%;
+    
     padding-top: 2%;
     padding-bottom: 1%;
     
